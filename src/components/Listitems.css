@@ -1,0 +1,30 @@
+.image-one{
+    /* background-image: url("https://sportshub.cbsistatic.com/i/2022/06/14/3006fc82-4cbe-4093-acda-7cbe5a4c9c35/gohan-dragon-ball-super-super-hero.jpg"); */
+    min-width: 23vw;
+    height: 30vh;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    display: flex;
+    margin-left: 10px;
+    color: white;
+    align-items: flex-end;
+}
+.list-item-group{
+    width: 100%;
+    height: 30%;
+    background:linear-gradient(to bottom,rgba(0,0,0,.3),rgba(0,0,0,1)) ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.image-one:hover{
+    transform: scale(1.2);
+}
+.youtub-wrapper{
+    position: fixed;
+    transform: translate(400px,-400px);
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,44 @@
+.banner-image {
+    /* background-image: url("https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaJJIdyKMNvEcWhAtI5Xk12MQLY8DLxAkM2k8unVHyRordNL9Jn726cLoEmP_DAn44vwE3_l9dWTpDQTvmzsk6REyj4veXm9bvQ8.jpg?r=e19"); */
+    background-size: cover;
+    height: 70vh;
+    width: 100vw; 
+    background:linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,1)) ;
+    
+}
+.heading{
+    margin: 0;
+    color: white;
+    text-transform: uppercase;
+    padding-top: 20px;
+
+}
+
+.description{
+    color: white;
+
+}
+.about{
+    /* margin-left: 40px; */
+    padding-left: 40px;
+    padding-top: 200px;
+}
+.play-btn{
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.mylist-btn{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(41, 35, 35);
+    color: white;
+}
+.btn-group{
+    display: flex;
+    
+}

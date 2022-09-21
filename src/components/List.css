@@ -1,0 +1,13 @@
+.list-wrapper{
+    overflow-x: scroll;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 10px;
+
+}
+.list-wrapper::-webkit-scrollbar{
+    display: none;
+}
+.listtitle{
+    color: white;
+}
